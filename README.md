@@ -1,11 +1,13 @@
 ## Hi there! 👋
 I'm __Tom__ - I am __proficient__ in the following languages:
 
+
   - 🍵 **Java**
   
   - ⌚ **C#**
-  
+
   - 📃 **JavaScript**
+
   
      - and I am currently learning **Python** 🐍
 
