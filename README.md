@@ -18,7 +18,7 @@ I'm __Tom__ - I am __proficient__ in the following languages:
 🔒 Some of my projects may be **privated**
 
   ---
-Currently I'm not supposed to be taking comissions, but if you have something you need or there is something you'd like to ask, feel free to let me know.
+Currently, I'm not supposed to be taking commissions but there is something you need or you have something you'd like to ask, feel free to let me know.
 
 
 <!--
