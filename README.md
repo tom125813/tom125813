@@ -9,7 +9,7 @@ I'm __Tom__ - I am __proficient__ in the following languages:
   - 📃 **JavaScript**
 
   
-     - and I am currently learning **Python** 🐍
+     - and I am currently learning 🐍 **Python**
 
   ---
 
