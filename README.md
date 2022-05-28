@@ -15,7 +15,7 @@ I'm __Tom__ - I am __proficient__ in the following languages:
 
 🔭 Feel free to have a look around my profile
 
-🔒 Bear in mind I keep most of my projects **privated**
+🔒 Some of my projects may be **privated**
 
 
 <!--
