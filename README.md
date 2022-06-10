@@ -1,37 +1,9 @@
 ## Hi there! 👋
-I'm __Tom__ - I am __proficient__ in the following languages:
-
-
-  - 🍵 **Java**
-  
-  - ⌚ **C#**
-
-  - 📃 **JavaScript**
-
-  
-     - and I am currently learning 🐍 **Python**
-
-  ---
+##### I'm __Tom__ - I am __proficient__ in multiple programming languages, although my most notable is *Java* as I've been learning it for around 6 years.
 
 🔭 Feel free to have a look around my profile
 
 🔒 Some of my projects may be **privated**
 
   ---
-If there is anything you'd like to ask, feel free to send me a message.
-
-
-<!--
-**tom125813/tom125813** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you have any questions, feel free to send me a message on Discord (**tom#0430**)
