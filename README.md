@@ -1,6 +1,7 @@
-<h1 align="center">Hello 👋</h1>
-<p align="center">I'm an experienced programmer with knowledge in languages such as: </p>
+<h1>Hello 👋</h1>
+<p>I'm an experienced programmer with knowledge in languages such as: </p>
+<li>Java</li>
 <li>C#</li>
-
-<p> and come from the United Kingdom</h3>
-<p align="center">Contact me on Discord @ tom8045</p>
+<li>HTML, CSS & JSL</li>
+<br>
+<p><b>Contact me on Discord @ tom8045</b></p>
