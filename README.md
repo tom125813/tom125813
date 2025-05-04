@@ -1,2 +1,2 @@
 
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tom125813&layout=compact&theme=midnight-purple)  
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tom125813&theme=midnight-purple)  
