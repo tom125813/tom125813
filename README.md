@@ -8,16 +8,4 @@ Recently, I've expanded my skill set into full-stack web development:
 
 I'm passionate about crafting high-quality code and delivering projects that make an impact. Check out my work below, and feel free to connect!
 
-
-**🚀 Skills**
-
-Languages: Java, HTML, CSS, JavaScript, C#
-
-Frameworks & Tools: Spigot API, Frontend Frameworks, Database APIs
-
-Focus Areas: Minecraft Plugins, Full-Stack Web Development
-
-
-📫 Get in Touch
-
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tom125813&layout=compact&theme=dark)  
